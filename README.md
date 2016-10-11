@@ -8,7 +8,7 @@ https://www.whimmly.com/TrainerAssist
 A php-based web app that digitizes the job of personal trainers. The TrainerAssist online dashboard allows you to build, view, share, and monitor workout plans. The mobile compatible site supports the dynamic creation of exercises and workout plans. Workout plans can be shared with "friends" and other users, can be searched up using a muscle selection tool, or found via traditional search query. 
 
 ### Old project
-For the record, this is an old project from 2014, when I was 14. The php + css + js in this project is really messy and inefficient, and I promise my more recent code are less of a mess.
+For the record, this is an old project from 2014, when I was 14. The php, css and js in this project are really messy and inefficient - I promise my more recent code are less of a mess.
 
 ## Features
 * Workout plans can be viewed on mobile, tablet, desktop, and also printed
