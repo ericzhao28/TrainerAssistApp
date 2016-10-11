@@ -1,0 +1,146 @@
+.clientLoadingScreenColor{
+  background-color: #ffa500 !important;
+}
+.lightOrangeLoadingScreenColor{
+  background-color: #ffae19 !important;
+}
+
+.trainerLoadingScreenColor{
+  background-color: #0099cc !important;
+}
+html,body
+{
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden; 
+}
+.bodyhide{
+  background-color:#0099cc
+}
+.loadingScreen {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 1102;
+  background-color: #0099cc;
+}
+#sidebar-wrapper{
+  z-index:1040 !important;
+}
+.panel-heading {
+  cursor: pointer;
+}
+.noside {
+	margin:0% !important;
+	border-width:0% !important;
+}
+.panel-collapse{
+	background-color:rgb(245, 245, 245) !important;
+}
+.accordiondiv {
+	padding-bottom:10px;
+	background-color:#0099cc !important;
+	padding-top:20px;
+}
+.accordion-toggle{
+	text-decoration:none !important;
+}
+.repCircle{
+	border-radius:5px;
+	background-color:rgb(245, 245, 245) !important;
+	text-align:center;
+	color:gray !important;
+ text-overflow: ellipsis;
+
+ padding-left:7px;
+ padding-right:7px;
+ padding-top:4px;
+ padding-bottom:4px;
+ white-space: nowrap;
+ overflow: hidden;
+}
+.stepText strong {
+  font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:25px;
+  display: inline-block;
+  margin-right:11px;
+  color:#0099cc;
+  word-break: break-word;
+  padding-bottom:0px;
+}
+@media(max-width:691px){
+  .actDesc strong{
+    text-align:center !important;
+    float:center !important;
+    font-size: 20px !important;
+    margin:0px !important;
+   
+  }
+  .actDesc {
+    text-align:center !important;
+    font-size:15px !important;
+  }
+  .titlePage strong {
+    font-size:38px !important;
+  }
+  .titlePage {
+    font-size:0px !important;
+    padding:0px !important;
+    margin:0px !important;
+  }
+}
+.stepText{
+  font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:15px;
+  line-height:22px;
+  display: inline-block;
+  word-break: break-word;
+}
+.actDesc{
+  font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:25px;
+  margin-left: 5px;
+  margin-right: 5px;
+  line-height:40px;
+  word-break: break-word;
+  white-space: nowrap;
+  overflow:hidden;
+  text-overflow: ellipsis !important;
+}
+.descriptionLeft{
+	padding-right:5%;
+	padding-left:5%;
+}
+.actDesc strong {
+  font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:40px;
+  font-weight:bold;
+  color:white;
+  
+  text-overflow: ellipsis;
+  margin-right:12px;
+  margin-left:12px;
+}
+.titlePage strong {
+  font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:60px;
+  font-weight:bold;
+  color:gray !important;
+  line-height:1;
+  text-align:center;
+}
+.titlePage {
+ font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+ font-size:40px;
+ text-align:center;
+ font-weight:bold;
+ color:black;
+ margin-right:16px;
+}
+.leftTitleDesc{
+}
+.leftTitleDesc strong {
+}

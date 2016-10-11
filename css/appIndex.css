@@ -1,0 +1,115 @@
+#loader { display: block; position: absolute; left: 100px; top: 0; }
+.loadingScreen {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  background-color:#ffae19;
+  z-index: 1102;
+}
+.glyph {
+  position:absolute;  left:5%;
+  top:5%;
+  z-index:601;
+  color:white !important;
+}
+.position2{
+  right:5% !important;
+  left: auto !important;
+}
+html, body {
+  height:100% !important;
+  background-color: #0099cc !important;
+  width:100% !important;
+}
+.clientLoadingScreenColor{
+  background-color: #ffa500 !important;
+}
+.lightOrangeLoadingScreenColor{
+  background-color: #ffae19 !important;
+}
+
+.trainerLoadingScreenColor{
+  background-color: #0099cc !important;
+}
+.stars{
+  padding:10%;
+  margin:0% !important; 
+  display: table; 
+  height:100% !important;
+  border-right-style:solid;
+  border-right-width:1px;
+  text-overflow: ellipsis;
+  border-right-color:white;
+}
+@media(max-width:768px) {
+  .repCircle{
+    width:70% !important;
+    font-size:26px !important;
+    margin-top:0% !important;
+    top:0 !important;
+    
+    padding-bottom:0% !important;
+    margin-bottom:0% !important;
+  }
+  .glyph {
+    top:13.5%;
+  }
+  .actDesc{
+    display:none !important;
+  }
+  .stars{
+    padding-top:0px !important;
+    padding-bottom:0px !important;
+    border-right-width:0px !important;
+    padding-left:2% !important;
+    padding-right:2% !important;
+    overflow:hidden;
+    background-color:#0099cc;
+  }
+  .formtitle strong {
+    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align:center;
+    font-size: 30px !important; 
+  }  
+}
+.repCircle{
+  border-radius:5px;
+  background-color:rgb(245, 245, 245) !important;
+  text-align:center;
+  color:#0089b7 !important;
+  position:absolute;
+  
+  overflow: hidden;
+  z-index:600;
+  top: 3%;
+  width:50%;
+  margin: 0 auto;
+  left: 0;
+  font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-align:center;
+  font-size: 40px;
+  right: 0;
+}
+.repCircle strong {
+  font-weight: normal;
+  color: #ffa500 !important;
+}
+.stars p {
+  display: table-cell; 
+  vertical-align: middle; 
+  text-align: center; 
+  color:white;
+}
+.formtitle strong {
+  font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-align:center;
+  font-size: 40px;
+}
+.formtitle{
+	
+  font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-align:center;
+  font-size: 25px;
+}
