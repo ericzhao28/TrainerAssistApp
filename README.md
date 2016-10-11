@@ -1,8 +1,9 @@
 # Try demo
 Try the demo here:
 https://www.whimmly.com/TrainerAssist
-![Screenshot](/screenshots/desktop1.png?raw=true)
-![Screenshot](/screenshots/desktop2.png?raw=true)
+Desktop             |  Mobile
+:-------------------------:|:-------------------------:
+![](/screenshosts/desktop.png)  |  ![](/screenshots/mobileCollage.jpg)
 
 # TrainerAssist
 A php-based web app that digitizes the job of personal trainers. The TrainerAssist online dashboard allows you to build, view, share, and monitor workout plans. The mobile compatible site supports the dynamic creation of exercises and workout plans. Workout plans can be shared with "friends" and other users, can be searched up using a muscle selection tool, or found via traditional search query. 
