@@ -2,7 +2,7 @@
 Try the demo here:
 https://www.whimmly.com/TrainerAssist
 
-![](/screenshosts/desktop.png) 
+![](/screenshots/desktop.png) 
 ![](/screenshots/mobileCollage.jpg)
 
 # TrainerAssist
