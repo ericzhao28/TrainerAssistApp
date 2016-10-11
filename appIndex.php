@@ -46,8 +46,8 @@ PARTICULAR PURPOSE.
 </head>
 <body style = "overflow-x:hidden;">
 
-<a  href="#" onclick = "goToLogoutPage()" class = "glyph" style = "z-index:601"><span class="glyphicon glyphicon-log-out" style = "height:50px; font-size: 60px; text-align:center; z-index:501" aria-hidden="true" ></span></a>
-<a  href="#" onclick = "goToFriendsPage()" class = "glyph position2" style = "z-index:601"><span class="glyphicon glyphicon-user" style = "height:50px; font-size: 60px; text-align:center; z-index:501" aria-hidden="true" ></span></a>
+<a  href="#" onclick = "goToLogoutPage()" class = "glyph" style = "z-index:601"><span class="glyphicon glyphicon-log-out" style = "height:50px; text-align:center; z-index:501" aria-hidden="true" ></span></a>
+<a  href="#" onclick = "goToFriendsPage()" class = "glyph position2" style = "z-index:601"><span class="glyphicon glyphicon-user" style = "height:50px; text-align:center; z-index:501" aria-hidden="true" ></span></a>
 
 
   <div class="loadingScreen" id = 'loadingPageIdentifier' style = "background-color:#ffae19"></div>

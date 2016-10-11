@@ -43,6 +43,11 @@ html, body {
   text-overflow: ellipsis;
   border-right-color:white;
 }
+@media(min-width:768px) {
+  .glyph {
+    font-size: 60px !important; 
+  }
+}
 @media(max-width:768px) {
   .repCircle{
     width:70% !important;
@@ -54,7 +59,14 @@ html, body {
     margin-bottom:0% !important;
   }
   .glyph {
-    top:13.5%;
+    top:2.5%;
+    right:20px !important;
+    left:auto !important;
+    font-size: 40px !important; 
+  }
+  .position2{
+    right:75px !important;
+    left:auto !important; 
   }
   .actDesc{
     display:none !important;
@@ -108,7 +120,7 @@ html, body {
   font-size: 40px;
 }
 .formtitle{
-	
+  
   font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
   text-align:center;
   font-size: 25px;

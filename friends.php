@@ -56,8 +56,8 @@ PARTICULAR PURPOSE.
   <link rel="stylesheet" href="css/animate.css" type="text/css">
   <link href = "css/styless.css" rel = "stylesheet" type="text/css">
   <!-- Custom CSS -->
-  <link rel="apple-touch-icon-precomposed" href="../img/squarelogo.png">
-  <link rel="icon" href="../img/squarelogo.png">
+  <link rel="apple-touch-icon-precomposed" href="img/squarelogo.png">
+  <link rel="icon" href="img/squarelogo.png">
   <!-- Custom Fonts -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js" type="text/javascript"></script>
   <script src="https://www.whimmly.com/TrainerAssist/js/hoverintent.js"></script>
